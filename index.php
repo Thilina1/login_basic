@@ -102,7 +102,7 @@ if(isset($_POST['btn-register'])){
                     <div class="log">  Have an account? <a href="login.php">Login</a> </div>
                 </div>
             
-            
+            This is test one for 
             </form>
         </div>
     </div>
